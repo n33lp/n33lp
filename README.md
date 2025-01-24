@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A software engineer with expertise in full-stack web development. I have experience in building scalable, secure, and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards.</h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/n33lp**
 
