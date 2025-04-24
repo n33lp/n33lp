@@ -10,38 +10,23 @@
     {
       "company": "imagine cities",
       "title": "full stack developer",
-      "durations": [
-        "jan 2024 – present"
-      ]
+      "durations": "jan 2024 – present"
     },
     {
       "company": "iGEM UAlberta",
       "title": "Advisor",
-      "durations": [
-        "dec 2023 – present"
-      ]
+      "durations": "dec 2023 – present"
     },
     {
       "company": "University of Alberta",
       "title": "Research Assistant",
-      "durations": [
-        "may 2023 – aug 2023"
-      ]
+      "durations": "may 2023 – aug 2023"
     },
     {
       "company": "iGEM UAlberta",
       "title": "lead software developer",
-      "durations": [
-        "jan 2023 – nov 2023"
-      ]
+      "durations": "jan 2023 – nov 2023"
     },
-    {
-      "company": "personal projects",
-      "title": "developer",
-      "durations": [
-        "ongoing"
-      ]
-    }
   ],
   "hobbies": [
     "volleyball (8+ yrs, captain & coach)", "running", "tech tinkering"
