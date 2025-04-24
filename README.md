@@ -1,3 +1,4 @@
+```json
 {
   "name": "neel patel 👋",
   "about me": "builder of full-stack tools that solve real-world problems",
@@ -48,3 +49,4 @@
   "let's connect": "https://www.linkedin.com/in/n33lp/",
   "website": "http://n33lp.github.io/"
 }
+```
