@@ -2,7 +2,7 @@
 {
   "name": "neel patel",
   "about me": "builder of full-stack tools that solve real-world problems",
-  "location": ["canada","usa"],
+  "location": ["canada", "usa"],
   "education": "uofa computer science (graduation: 2024)",
   "currently": "actively looking for junior software developer roles",
   "searching for": "opportunities in software engineering, ai, or data",
