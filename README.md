@@ -25,7 +25,7 @@
     {
       "company": "iGEM UAlberta",
       "title": "lead software developer",
-      "durations": "jan 2023 – nov 2023"
+      "durations": "jan 2023 – dec 2023"
     },
   ],
   "hobbies": [
