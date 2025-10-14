@@ -10,7 +10,7 @@
     {
       "company": "imagine cities",
       "title": "full stack developer",
-      "durations": "jan 2024 – present"
+      "durations": "sept 2024 – present"
     },
     {
       "company": "iGEM UAlberta",
